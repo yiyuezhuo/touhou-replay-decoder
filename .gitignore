@@ -1,0 +1,3 @@
+*.rpy.pickle
+__pycache__
+*.txt
